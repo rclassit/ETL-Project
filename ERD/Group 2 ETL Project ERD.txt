@@ -1,0 +1,22 @@
+award
+-
+id INT PK
+year_awarded INT
+category
+amount_awarded INT 
+
+laureates
+-
+id INT FK - award.id
+name VARCHAR(100)
+birthplace VARCHAR(250)
+organization VARCHAR(250)
+
+Nobel_Prizes
+-
+year_awarded INT FK >- award.year_awarded
+category VARCHAR(60) FK >- award.category
+name VARCHAR(100) FK >- laureates.name
+birthplace VARCHAR(250) FK >- laureates.birthplace
+organization VARCHAR(250) FK >- laureates.organization
+amount-awarded INT FK >- award.amount_awarded
