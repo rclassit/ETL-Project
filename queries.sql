@@ -1,4 +1,4 @@
----Queries---
+---Query to Generate Final Table---
 SELECT a.year_awarded, a.nobel_prize, l.recipient, l.gender, a.prize_amount, l.birth_place 
 FROM award as a 
 JOIN laureates as l 
