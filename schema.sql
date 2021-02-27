@@ -1,18 +1,18 @@
 ---Table Creation---
-Create table Laureates (
-Laureate_ID INT PRIMARY KEY,
-Recipient Text,
-Gender Text, 
-Birth_Date Text, 
-Birth_Place Text
-
+Create table laureates (
+laureate_id INT PRIMARY KEY,
+recipient Text,
+gender Text, 
+birth_date Text, 
+birth_place Text
 );
 
-Create table Award (
-ID Serial Primary Key,
-Laureate_ID INT Foreign Key,
-Year_Awarded INT, 
-Prize_Amount INT, 
-Nobel_Prize Text
-)
+Create table award (
+id SERIAL Primary Key,
+laureate_id INT,
+year_awarded INT, 
+prize_amount INT, 
+nobel_prize Text,
+FOREIGN KEY (laureate_id) REFERENCES laureates(laureate_id)
+);
 
