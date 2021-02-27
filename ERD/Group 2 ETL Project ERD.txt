@@ -1,22 +1,15 @@
+laureates
+-
+laureate_id INT PK
+recipient VARCHAR(250)
+gender VARCHAR(10)
+birth_date VARCHAR(20)
+birth_place VARCHAR(250)
+
 award
 -
 id INT PK
+laureate_id INT FK - laureates.laureate_id
 year_awarded INT
-category
-amount_awarded INT 
-
-laureates
--
-id INT FK - award.id
-name VARCHAR(100)
-birthplace VARCHAR(250)
-organization VARCHAR(250)
-
-Nobel_Prizes
--
-year_awarded INT FK >- award.year_awarded
-category VARCHAR(60) FK >- award.category
-name VARCHAR(100) FK >- laureates.name
-birthplace VARCHAR(250) FK >- laureates.birthplace
-organization VARCHAR(250) FK >- laureates.organization
-amount-awarded INT FK >- award.amount_awarded
+prize_amount INT
+nobel_prize VARCHAR(250)
