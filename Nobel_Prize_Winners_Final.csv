@@ -1,0 +1,598 @@
+year_awarded,nobel_prize,recipient,gender,prize_amount,birth_place
+1901,The Nobel Prize in Chemistry,Jacobus H. van 't Hoff,male,150782,the Netherlands
+1901,The Nobel Prize in  Literature,Sully Prudhomme,male,150782,France
+1901,The Nobel Peace Prize,Henry Dunant,male,150782,Switzerland
+1901,The Nobel Prize in Physics,Wilhelm Conrad Röntgen,male,150782,Prussia
+1901,The Nobel Prize in Physiology or Medicine,Emil von Behring,male,150782,Prussia
+1902,The Nobel Prize in Chemistry,Emil Fischer,male,141847,Prussia
+1902,The Nobel Prize in  Literature,Theodor Mommsen,male,141847,Schleswig
+1902,The Nobel Peace Prize,Élie Ducommun,male,141847,Switzerland
+1902,The Nobel Prize in Physics,Hendrik A. Lorentz,male,141847,the Netherlands
+1902,The Nobel Prize in Physiology or Medicine,Ronald Ross,male,141847,India
+1903,The Nobel Prize in Chemistry,Svante Arrhenius,male,141358,Sweden
+1903,The Nobel Prize in  Literature,Bjørnstjerne Bjørnson,male,141358,Norway
+1903,The Nobel Peace Prize,Randal Cremer,male,141358,United Kingdom
+1903,The Nobel Prize in Physics,Henri Becquerel,male,141358,France
+1903,The Nobel Prize in Physiology or Medicine,Niels Ryberg Finsen,male,141358,Faroe Islands (Denmark)
+1904,The Nobel Prize in Chemistry,Sir William Ramsay,male,140859,Scotland
+1904,The Nobel Prize in  Literature,Frédéric Mistral,male,140859,France
+1904,The Nobel Peace Prize,Institute of International Law,NULL,140859,NULL
+1904,The Nobel Prize in Physics,Lord Rayleigh,male,140859,United Kingdom
+1904,The Nobel Prize in Physiology or Medicine,Ivan Pavlov,male,140859,Russia
+1905,The Nobel Prize in Chemistry,Adolf von Baeyer,male,138089,Prussia
+1905,The Nobel Prize in  Literature,Henryk Sienkiewicz,male,138089,Poland
+1905,The Nobel Peace Prize,Bertha von Suttner,female,138089,Austrian Empire
+1905,The Nobel Prize in Physics,Philipp Lenard,male,138089,Hungary
+1905,The Nobel Prize in Physiology or Medicine,Robert Koch,male,138089,Germany
+1906,The Nobel Prize in Chemistry,Henri Moissan,male,138536,France
+1906,The Nobel Prize in  Literature,Giosuè Carducci,male,138536,Tuscany
+1906,The Nobel Peace Prize,Theodore Roosevelt,male,138536,USA
+1906,The Nobel Prize in Physics,J.J. Thomson,male,138536,United Kingdom
+1906,The Nobel Prize in Physiology or Medicine,Camillo Golgi,male,138536,Italy
+1907,The Nobel Prize in Chemistry,Eduard Buchner,male,138796,Bavaria
+1907,The Nobel Prize in  Literature,Rudyard Kipling,male,138796,British India
+1907,The Nobel Peace Prize,Ernesto Teodoro Moneta,male,138796,Austrian Empire
+1907,The Nobel Prize in Physics,Albert A. Michelson,male,138796,Prussia
+1907,The Nobel Prize in Physiology or Medicine,Alphonse Laveran,male,138796,France
+1908,The Nobel Prize in Chemistry,Ernest Rutherford,male,139800,New Zealand
+1908,The Nobel Prize in  Literature,Rudolf Eucken,male,139800,East Friesland
+1908,The Nobel Peace Prize,Klas Pontus Arnoldson,male,139800,Sweden
+1908,The Nobel Prize in Physics,Gabriel Lippmann,male,139800,Luxembourg
+1908,The Nobel Prize in Physiology or Medicine,Ilya Mechnikov,male,139800,Russian Empire
+1909,The Nobel Prize in Chemistry,Wilhelm Ostwald,male,139800,Russian Empire
+1909,The Nobel Prize in  Literature,Selma Lagerlöf,female,139800,Sweden
+1909,The Nobel Peace Prize,Auguste Beernaert,male,139800,Belgium
+1909,The Nobel Prize in Physics,Guglielmo Marconi,male,139800,Italy
+1909,The Nobel Prize in Physiology or Medicine,Theodor Kocher,male,139800,Switzerland
+1910,The Nobel Prize in Chemistry,Otto Wallach,male,140703,Germany
+1910,The Nobel Prize in  Literature,Paul Heyse,male,140703,Prussia
+1910,The Nobel Peace Prize,Permanent International Peace Bureau,NULL,140703,NULL
+1910,The Nobel Prize in Physics,Johannes Diderik van der Waals,male,140703,the Netherlands
+1910,The Nobel Prize in Physiology or Medicine,Albrecht Kossel,male,140703,Mecklenburg
+1911,The Nobel Prize in Chemistry,Marie Curie,female,140695,Russian Empire
+1911,The Nobel Prize in  Literature,Maurice Maeterlinck,male,140695,Belgium
+1911,The Nobel Peace Prize,Tobias Asser,male,140695,the Netherlands
+1911,The Nobel Prize in Physics,Wilhelm Wien,male,140695,Prussia
+1911,The Nobel Prize in Physiology or Medicine,Allvar Gullstrand,male,140695,Sweden
+1912,The Nobel Prize in Chemistry,Victor Grignard,male,140476,France
+1912,The Nobel Prize in  Literature,Gerhart Hauptmann,male,140476,Prussia
+1912,The Nobel Peace Prize,Elihu Root,male,140476,USA
+1912,The Nobel Prize in Physics,Gustaf Dalén,male,140476,Sweden
+1912,The Nobel Prize in Physiology or Medicine,Alexis Carrel,male,140476,France
+1913,The Nobel Prize in Chemistry,Alfred Werner,male,143010,France
+1913,The Nobel Prize in  Literature,Rabindranath Tagore,male,143010,India
+1913,The Nobel Peace Prize,Henri La Fontaine,male,143010,Belgium
+1913,The Nobel Prize in Physics,Heike Kamerlingh Onnes,male,143010,the Netherlands
+1913,The Nobel Prize in Physiology or Medicine,Charles Richet,male,143010,France
+1914,The Nobel Prize in Chemistry,Theodore W. Richards,male,146900,USA
+1914,The Nobel Prize in Physics,Max von Laue,male,146900,Germany
+1914,The Nobel Prize in Physiology or Medicine,Robert Bárány,male,146900,Austria
+1915,The Nobel Prize in Chemistry,Richard Willstätter,male,149223,Germany
+1915,The Nobel Prize in  Literature,Romain Rolland,male,149223,France
+1915,The Nobel Prize in Physics,William Bragg,male,149223,United Kingdom
+1916,The Nobel Prize in  Literature,Verner von Heidenstam,male,131793,Sweden
+1917,The Nobel Prize in  Literature,Karl Gjellerup,male,133823,Denmark
+1917,The Nobel Peace Prize,International Committee of the Red Cross,NULL,133823,NULL
+1917,The Nobel Prize in Physics,Charles Glover Barkla,male,133823,United Kingdom
+1918,The Nobel Prize in Chemistry,Fritz Haber,male,138198,Prussia
+1918,The Nobel Prize in Physics,Max Planck,male,138198,Schleswig
+1919,The Nobel Prize in  Literature,Carl Spitteler,male,133127,Switzerland
+1919,The Nobel Peace Prize,Woodrow Wilson,male,133127,USA
+1919,The Nobel Prize in Physics,Johannes Stark,male,133127,Germany
+1919,The Nobel Prize in Physiology or Medicine,Jules Bordet,male,133127,Belgium
+1920,The Nobel Prize in Chemistry,Walther Nernst,male,134100,Prussia
+1920,The Nobel Prize in  Literature,Knut Hamsun,male,134100,Norway
+1920,The Nobel Peace Prize,Léon Bourgeois,male,134100,France
+1920,The Nobel Prize in Physics,Charles Edouard Guillaume,male,134100,Switzerland
+1920,The Nobel Prize in Physiology or Medicine,August Krogh,male,134100,Denmark
+1921,The Nobel Prize in Chemistry,Frederick Soddy,male,121573,United Kingdom
+1921,The Nobel Prize in  Literature,Anatole France,male,121573,France
+1921,The Nobel Peace Prize,Hjalmar Branting,male,121573,Sweden
+1921,The Nobel Prize in Physics,Albert Einstein,male,121573,Germany
+1922,The Nobel Prize in Chemistry,Francis W. Aston,male,122483,United Kingdom
+1922,The Nobel Prize in  Literature,Jacinto Benavente,male,122483,Spain
+1922,The Nobel Peace Prize,Fridtjof Nansen,male,122483,Norway
+1922,The Nobel Prize in Physics,Niels Bohr,male,122483,Denmark
+1922,The Nobel Prize in Physiology or Medicine,Archibald V. Hill,male,122483,United Kingdom
+1923,The Nobel Prize in Chemistry,Fritz Pregl,male,114935,Austria-Hungary
+1923,The Nobel Prize in  Literature,William Butler Yeats,male,114935,Ireland
+1923,The Nobel Prize in Physics,Robert A. Millikan,male,114935,USA
+1923,The Nobel Prize in Physiology or Medicine,Frederick G. Banting,male,114935,Canada
+1924,The Nobel Prize in  Literature,Wladyslaw Reymont,male,116719,Russian Empire
+1924,The Nobel Prize in Physics,Manne Siegbahn,male,116719,Sweden
+1924,The Nobel Prize in Physiology or Medicine,Willem Einthoven,male,116719,"Java, Dutch East Indies"
+1925,The Nobel Prize in Chemistry,Richard Zsigmondy,male,118165,Austrian Empire
+1925,The Nobel Prize in  Literature,George Bernard Shaw,male,118165,Ireland
+1925,The Nobel Peace Prize,Sir Austen Chamberlain,male,118165,United Kingdom
+1925,The Nobel Prize in Physics,James Franck,male,118165,Germany
+1926,The Nobel Prize in Chemistry,The Svedberg,male,116960,Sweden
+1926,The Nobel Prize in  Literature,Grazia Deledda,female,116960,Italy
+1926,The Nobel Peace Prize,Aristide Briand,male,116960,France
+1926,The Nobel Prize in Physics,Jean Baptiste Perrin,male,116960,France
+1926,The Nobel Prize in Physiology or Medicine,Johannes Fibiger,male,116960,Denmark
+1927,The Nobel Prize in Chemistry,Heinrich Wieland,male,126501,Germany
+1927,The Nobel Prize in  Literature,Henri Bergson,male,126501,France
+1927,The Nobel Peace Prize,Ferdinand Buisson,male,126501,France
+1927,The Nobel Prize in Physics,Arthur H. Compton,male,126501,USA
+1927,The Nobel Prize in Physiology or Medicine,Julius Wagner-Jauregg,male,126501,Austria
+1928,The Nobel Prize in Chemistry,Adolf Windaus,male,156939,Germany
+1928,The Nobel Prize in  Literature,Sigrid Undset,female,156939,Denmark
+1928,The Nobel Prize in Physics,Owen Willans Richardson,male,156939,United Kingdom
+1928,The Nobel Prize in Physiology or Medicine,Charles Nicolle,male,156939,France
+1929,The Nobel Prize in Chemistry,Arthur Harden,male,172760,United Kingdom
+1929,The Nobel Prize in  Literature,Thomas Mann,male,172760,Germany
+1929,The Nobel Peace Prize,Frank B. Kellogg,male,172760,USA
+1929,The Nobel Prize in Physics,Louis de Broglie,male,172760,France
+1929,The Nobel Prize in Physiology or Medicine,Christiaan Eijkman,male,172760,the Netherlands
+1930,The Nobel Prize in Chemistry,Hans Fischer,male,172947,Germany
+1930,The Nobel Prize in  Literature,Sinclair Lewis,male,172947,USA
+1930,The Nobel Peace Prize,Nathan Söderblom,male,172947,Sweden
+1930,The Nobel Prize in Physics,Sir Chandrasekhara Venkata Raman,male,172947,India
+1930,The Nobel Prize in Physiology or Medicine,Karl Landsteiner,male,172947,Austrian Empire
+1931,The Nobel Prize in Chemistry,Carl Bosch,male,173206,Germany
+1931,The Nobel Prize in  Literature,Erik Axel Karlfeldt,male,173206,Sweden
+1931,The Nobel Peace Prize,Jane Addams,female,173206,USA
+1931,The Nobel Prize in Physiology or Medicine,Otto Warburg,male,173206,Germany
+1932,The Nobel Prize in Chemistry,Irving Langmuir,male,171753,USA
+1932,The Nobel Prize in  Literature,John Galsworthy,male,171753,United Kingdom
+1932,The Nobel Prize in Physics,Werner Heisenberg,male,171753,Germany
+1932,The Nobel Prize in Physiology or Medicine,Sir Charles Sherrington,male,171753,United Kingdom
+1933,The Nobel Prize in  Literature,Ivan Bunin,male,170332,Russia
+1933,The Nobel Peace Prize,Sir Norman Angell,male,170332,United Kingdom
+1933,The Nobel Prize in Physics,Erwin Schrödinger,male,170332,Austria
+1933,The Nobel Prize in Physiology or Medicine,Thomas H. Morgan,male,170332,USA
+1934,The Nobel Prize in Chemistry,Harold C. Urey,male,162608,USA
+1934,The Nobel Prize in  Literature,Luigi Pirandello,male,162608,Italy
+1934,The Nobel Peace Prize,Arthur Henderson,male,162608,Scotland
+1934,The Nobel Prize in Physiology or Medicine,George H. Whipple,male,162608,USA
+1935,The Nobel Prize in Chemistry,Frédéric Joliot,male,159917,France
+1935,The Nobel Peace Prize,Carl von Ossietzky,male,159917,Germany
+1935,The Nobel Prize in Physics,James Chadwick,male,159917,United Kingdom
+1935,The Nobel Prize in Physiology or Medicine,Hans Spemann,male,159917,Württemberg
+1936,The Nobel Prize in Chemistry,Peter Debye,male,159850,the Netherlands
+1936,The Nobel Prize in  Literature,Eugene O'Neill,male,159850,USA
+1936,The Nobel Peace Prize,Carlos Saavedra Lamas,male,159850,Argentina
+1936,The Nobel Prize in Physics,Victor F. Hess,male,159850,Austria
+1936,The Nobel Prize in Physiology or Medicine,Sir Henry Dale,male,159850,United Kingdom
+1937,The Nobel Prize in Chemistry,Norman Haworth,male,158463,United Kingdom
+1937,The Nobel Prize in  Literature,Roger Martin du Gard,male,158463,France
+1937,The Nobel Peace Prize,"Robert Cecil, Viscount Cecil of Chelwood",male,158463,United Kingdom
+1937,The Nobel Prize in Physics,Clinton Davisson,male,158463,USA
+1937,The Nobel Prize in Physiology or Medicine,Albert Szent-Györgyi,male,158463,Austria-Hungary
+1938,The Nobel Prize in Chemistry,Richard Kuhn,male,155077,Austria-Hungary
+1938,The Nobel Prize in  Literature,Pearl Buck,female,155077,USA
+1938,The Nobel Peace Prize,Nansen International Office for Refugees,NULL,155077,NULL
+1938,The Nobel Prize in Physics,Enrico Fermi,male,155077,Italy
+1938,The Nobel Prize in Physiology or Medicine,Corneille Heymans,male,155077,Belgium
+1939,The Nobel Prize in Chemistry,Adolf Butenandt,male,148822,Germany
+1939,The Nobel Prize in  Literature,Frans Eemil Sillanpää,male,148822,Russian Empire
+1939,The Nobel Prize in Physics,Ernest Lawrence,male,148822,USA
+1939,The Nobel Prize in Physiology or Medicine,Gerhard Domagk,male,148822,Germany
+1943,The Nobel Prize in Chemistry,George de Hevesy,male,123691,Austria-Hungary
+1943,The Nobel Prize in Physics,Otto Stern,male,123691,Germany
+1943,The Nobel Prize in Physiology or Medicine,Henrik Dam,male,123691,Denmark
+1944,The Nobel Prize in Chemistry,Otto Hahn,male,121841,Germany
+1944,The Nobel Prize in  Literature,Johannes V. Jensen,male,121841,Denmark
+1944,The Nobel Peace Prize,International Committee of the Red Cross,NULL,121841,NULL
+1944,The Nobel Prize in Physics,Isidor Isaac Rabi,male,121841,Austria-Hungary
+1944,The Nobel Prize in Physiology or Medicine,Joseph Erlanger,male,121841,USA
+1945,The Nobel Prize in Chemistry,Artturi Virtanen,male,121333,Russian Empire
+1945,The Nobel Prize in  Literature,Gabriela Mistral,female,121333,Chile
+1945,The Nobel Peace Prize,Cordell Hull,male,121333,USA
+1945,The Nobel Prize in Physics,Wolfgang Pauli,male,121333,Austria
+1945,The Nobel Prize in Physiology or Medicine,Sir Alexander Fleming,male,121333,Scotland
+1946,The Nobel Prize in Chemistry,James B. Sumner,male,121524,USA
+1946,The Nobel Prize in  Literature,Hermann Hesse,male,121524,Germany
+1946,The Nobel Peace Prize,Emily Greene Balch,female,121524,USA
+1946,The Nobel Prize in Physics,Percy W. Bridgman,male,121524,USA
+1946,The Nobel Prize in Physiology or Medicine,Hermann J. Muller,male,121524,USA
+1947,The Nobel Prize in Chemistry,Sir Robert Robinson,male,146115,United Kingdom
+1947,The Nobel Prize in  Literature,André Gide,male,146115,France
+1947,The Nobel Peace Prize,Friends Service Council,NULL,146115,NULL
+1947,The Nobel Prize in Physics,Edward V. Appleton,male,146115,United Kingdom
+1947,The Nobel Prize in Physiology or Medicine,Carl Cori,male,146115,Austria-Hungary
+1948,The Nobel Prize in Chemistry,Arne Tiselius,male,159773,Sweden
+1948,The Nobel Prize in  Literature,T.S. Eliot,male,159773,USA
+1948,The Nobel Prize in Physics,Patrick M.S. Blackett,male,159773,United Kingdom
+1948,The Nobel Prize in Physiology or Medicine,Paul Müller,male,159773,Switzerland
+1949,The Nobel Prize in Chemistry,William F. Giauque,male,156290,Canada
+1949,The Nobel Prize in  Literature,William Faulkner,male,156290,USA
+1949,The Nobel Peace Prize,Lord Boyd Orr,male,156290,Scotland
+1949,The Nobel Prize in Physics,Hideki Yukawa,male,156290,Japan
+1949,The Nobel Prize in Physiology or Medicine,Walter Hess,male,156290,Switzerland
+1950,The Nobel Prize in Chemistry,Otto Diels,male,164304,Germany
+1950,The Nobel Prize in  Literature,Bertrand Russell,male,164304,United Kingdom
+1950,The Nobel Peace Prize,Ralph Bunche,male,164304,USA
+1950,The Nobel Prize in Physics,Cecil Powell,male,164304,United Kingdom
+1950,The Nobel Prize in Physiology or Medicine,Edward C. Kendall,male,164304,USA
+1951,The Nobel Prize in Chemistry,Edwin M. McMillan,male,167612,USA
+1951,The Nobel Prize in  Literature,Pär Lagerkvist,male,167612,Sweden
+1951,The Nobel Peace Prize,Léon Jouhaux,male,167612,France
+1951,The Nobel Prize in Physics,John Cockcroft,male,167612,United Kingdom
+1951,The Nobel Prize in Physiology or Medicine,Max Theiler,male,167612,South Africa
+1952,The Nobel Prize in Chemistry,Archer J.P. Martin,male,171135,United Kingdom
+1952,The Nobel Prize in  Literature,François Mauriac,male,171135,France
+1952,The Nobel Peace Prize,Albert Schweitzer,male,171135,Germany
+1952,The Nobel Prize in Physics,Felix Bloch,male,171135,Switzerland
+1952,The Nobel Prize in Physiology or Medicine,Selman A. Waksman,male,171135,Russian Empire
+1953,The Nobel Prize in Chemistry,Hermann Staudinger,male,175293,Germany
+1953,The Nobel Prize in  Literature,Winston Churchill,male,175293,United Kingdom
+1953,The Nobel Peace Prize,George C. Marshall,male,175293,USA
+1953,The Nobel Prize in Physics,Frits Zernike,male,175293,the Netherlands
+1953,The Nobel Prize in Physiology or Medicine,Hans Krebs,male,175293,Germany
+1954,The Nobel Prize in Chemistry,Linus Pauling,male,181647,USA
+1954,The Nobel Prize in  Literature,Ernest Hemingway,male,181647,USA
+1954,The Nobel Peace Prize,Office of the United Nations High Commissioner for Refugees,NULL,181647,NULL
+1954,The Nobel Prize in Physics,Max Born,male,181647,Germany
+1954,The Nobel Prize in Physiology or Medicine,John F. Enders,male,181647,USA
+1955,The Nobel Prize in Chemistry,Vincent du Vigneaud,male,190214,USA
+1955,The Nobel Prize in  Literature,Halldór Laxness,male,190214,Iceland
+1955,The Nobel Prize in Physics,Willis E. Lamb,male,190214,USA
+1955,The Nobel Prize in Physiology or Medicine,Hugo Theorell,male,190214,Sweden
+1956,The Nobel Prize in Chemistry,Sir Cyril Hinshelwood,male,200123,United Kingdom
+1956,The Nobel Prize in  Literature,Juan Ramón Jiménez,male,200123,Spain
+1956,The Nobel Prize in Physics,William B. Shockley,male,200123,United Kingdom
+1956,The Nobel Prize in Physiology or Medicine,André F. Cournand,male,200123,France
+1957,The Nobel Prize in Chemistry,Lord Todd,male,208629,Scotland
+1957,The Nobel Prize in  Literature,Albert Camus,male,208629,French Algeria
+1957,The Nobel Peace Prize,Lester Bowles Pearson,male,208629,Canada
+1957,The Nobel Prize in Physics,Chen Ning Yang,male,208629,China
+1957,The Nobel Prize in Physiology or Medicine,Daniel Bovet,male,208629,Switzerland
+1958,The Nobel Prize in Chemistry,Frederick Sanger,male,214559,United Kingdom
+1958,The Nobel Prize in  Literature,Boris Pasternak,male,214559,Russia
+1958,The Nobel Peace Prize,Georges Pire,male,214559,Belgium
+1958,The Nobel Prize in Physics,Pavel A. Cherenkov,male,214559,Russia
+1958,The Nobel Prize in Physiology or Medicine,George Beadle,male,214559,USA
+1959,The Nobel Prize in Chemistry,Jaroslav Heyrovsky,male,220678,Austria-Hungary
+1959,The Nobel Prize in  Literature,Salvatore Quasimodo,male,220678,Italy
+1959,The Nobel Peace Prize,Philip Noel-Baker,male,220678,United Kingdom
+1959,The Nobel Prize in Physics,Emilio Segrè,male,220678,Italy
+1959,The Nobel Prize in Physiology or Medicine,Severo Ochoa,male,220678,Spain
+1960,The Nobel Prize in Chemistry,Willard F. Libby,male,225987,USA
+1960,The Nobel Prize in  Literature,Saint-John Perse,male,225987,Guadeloupe Island
+1960,The Nobel Peace Prize,Albert Luthuli,male,225987,Southern Rhodesia
+1960,The Nobel Prize in Physics,Donald A. Glaser,male,225987,USA
+1960,The Nobel Prize in Physiology or Medicine,Sir Frank Macfarlane Burnet,male,225987,Australia
+1961,The Nobel Prize in Chemistry,Melvin Calvin,male,250233,USA
+1961,The Nobel Prize in  Literature,Ivo Andric,male,250233,Bosnia
+1961,The Nobel Peace Prize,Dag Hammarskjöld,male,250233,Sweden
+1961,The Nobel Prize in Physics,Robert Hofstadter,male,250233,USA
+1961,The Nobel Prize in Physiology or Medicine,Georg von Békésy,male,250233,Hungary
+1962,The Nobel Prize in Chemistry,Max F. Perutz,male,257220,Austria
+1962,The Nobel Prize in  Literature,John Steinbeck,male,257220,USA
+1962,The Nobel Peace Prize,Linus Pauling,male,257220,USA
+1962,The Nobel Prize in Physics,Lev Landau,male,257220,Russian Empire
+1962,The Nobel Prize in Physiology or Medicine,Francis Crick,male,257220,United Kingdom
+1963,The Nobel Prize in Chemistry,Karl Ziegler,male,265000,Germany
+1963,The Nobel Prize in  Literature,Giorgos Seferis,male,265000,Ottoman Empire
+1963,The Nobel Peace Prize,International Committee of the Red Cross,NULL,265000,NULL
+1963,The Nobel Prize in Physics,Eugene Wigner,male,265000,Austria-Hungary
+1963,The Nobel Prize in Physiology or Medicine,Sir John Eccles,male,265000,Australia
+1964,The Nobel Prize in Chemistry,Dorothy Crowfoot Hodgkin,female,273000,Egypt
+1964,The Nobel Prize in  Literature,Jean-Paul Sartre,male,273000,France
+1964,The Nobel Peace Prize,Martin Luther King Jr.,male,273000,USA
+1964,The Nobel Prize in Physics,Charles H. Townes,male,273000,USA
+1964,The Nobel Prize in Physiology or Medicine,Konrad Bloch,male,273000,Germany
+1965,The Nobel Prize in Chemistry,Robert B. Woodward,male,282000,USA
+1965,The Nobel Prize in  Literature,Mikhail Sholokhov,male,282000,Russia
+1965,The Nobel Peace Prize,United Nations Children's Fund,NULL,282000,NULL
+1965,The Nobel Prize in Physics,Sin-Itiro Tomonaga,male,282000,Japan
+1965,The Nobel Prize in Physiology or Medicine,François Jacob,male,282000,France
+1966,The Nobel Prize in Chemistry,Robert S. Mulliken,male,300000,USA
+1966,The Nobel Prize in  Literature,Shmuel Agnon,male,300000,Austria-Hungary
+1966,The Nobel Prize in Physics,Alfred Kastler,male,300000,Germany
+1966,The Nobel Prize in Physiology or Medicine,Peyton Rous,male,300000,USA
+1967,The Nobel Prize in Chemistry,Manfred Eigen,male,320000,Germany
+1967,The Nobel Prize in  Literature,Miguel Angel Asturias,male,320000,Guatemala
+1967,The Nobel Prize in Physics,Hans Bethe,male,320000,Germany
+1967,The Nobel Prize in Physiology or Medicine,Ragnar Granit,male,320000,Russian Empire
+1968,The Nobel Prize in Chemistry,Lars Onsager,male,350000,Norway
+1968,The Nobel Prize in  Literature,Yasunari Kawabata,male,350000,Japan
+1968,The Nobel Peace Prize,René Cassin,male,350000,France
+1968,The Nobel Prize in Physics,Luis Alvarez,male,350000,USA
+1968,The Nobel Prize in Physiology or Medicine,Robert W. Holley,male,350000,USA
+1969,The Nobel Prize in Chemistry,Derek Barton,male,375000,United Kingdom
+1969,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Ragnar Frisch,male,375000,Norway
+1969,The Nobel Prize in  Literature,Samuel Beckett,male,375000,Ireland
+1969,The Nobel Peace Prize,International Labour Organization,NULL,375000,NULL
+1969,The Nobel Prize in Physics,Murray Gell-Mann,male,375000,USA
+1969,The Nobel Prize in Physiology or Medicine,Max Delbrück,male,375000,Germany
+1970,The Nobel Prize in Chemistry,Luis Leloir,male,400000,France
+1970,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Paul A. Samuelson,male,400000,USA
+1970,The Nobel Prize in  Literature,Alexandr Solzhenitsyn,male,400000,Russia
+1970,The Nobel Peace Prize,Norman Borlaug,male,400000,USA
+1970,The Nobel Prize in Physics,Hannes Alfvén,male,400000,Sweden
+1970,The Nobel Prize in Physiology or Medicine,Sir Bernard Katz,male,400000,Germany
+1971,The Nobel Prize in Chemistry,Gerhard Herzberg,male,450000,Germany
+1971,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Simon Kuznets,male,450000,Russian Empire
+1971,The Nobel Prize in  Literature,Pablo Neruda,male,450000,Chile
+1971,The Nobel Peace Prize,Willy Brandt,male,450000,Germany
+1971,The Nobel Prize in Physics,Dennis Gabor,male,450000,Hungary
+1971,The Nobel Prize in Physiology or Medicine,"Earl W. Sutherland, Jr.",male,450000,USA
+1972,The Nobel Prize in Chemistry,Christian Anfinsen,male,480000,USA
+1972,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,John R. Hicks,male,480000,United Kingdom
+1972,The Nobel Prize in  Literature,Heinrich Böll,male,480000,Germany
+1972,The Nobel Prize in Physics,John Bardeen,male,480000,USA
+1972,The Nobel Prize in Physiology or Medicine,Gerald M. Edelman,male,480000,USA
+1973,The Nobel Prize in Chemistry,Ernst Otto Fischer,male,510000,Germany
+1973,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Wassily Leontief,male,510000,Russia
+1973,The Nobel Prize in  Literature,Patrick White,male,510000,United Kingdom
+1973,The Nobel Peace Prize,Henry Kissinger,male,510000,Germany
+1973,The Nobel Prize in Physics,Leo Esaki,male,510000,Japan
+1973,The Nobel Prize in Physiology or Medicine,Karl von Frisch,male,510000,Austria
+1974,The Nobel Prize in Chemistry,Paul J. Flory,male,550000,USA
+1974,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Gunnar Myrdal,male,550000,Sweden
+1974,The Nobel Prize in  Literature,Eyvind Johnson,male,550000,Sweden
+1974,The Nobel Peace Prize,Seán MacBride,male,550000,France
+1974,The Nobel Prize in Physics,Martin Ryle,male,550000,United Kingdom
+1974,The Nobel Prize in Physiology or Medicine,Albert Claude,male,550000,Belgium
+1975,The Nobel Prize in Chemistry,John Cornforth,male,630000,Australia
+1975,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Leonid Vitaliyevich Kantorovich,male,630000,Russian Empire
+1975,The Nobel Prize in  Literature,Eugenio Montale,male,630000,Italy
+1975,The Nobel Peace Prize,Andrei Sakharov,male,630000,Russia
+1975,The Nobel Prize in Physics,Aage N. Bohr,male,630000,Denmark
+1975,The Nobel Prize in Physiology or Medicine,David Baltimore,male,630000,USA
+1976,The Nobel Prize in Chemistry,William Lipscomb,male,681000,USA
+1976,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Milton Friedman,male,681000,USA
+1976,The Nobel Prize in  Literature,Saul Bellow,male,681000,Canada
+1976,The Nobel Peace Prize,Betty Williams,female,681000,Northern Ireland
+1976,The Nobel Prize in Physics,Burton Richter,male,681000,USA
+1976,The Nobel Prize in Physiology or Medicine,Baruch S. Blumberg,male,681000,USA
+1977,The Nobel Prize in Chemistry,Ilya Prigogine,male,700000,Russia
+1977,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Bertil Ohlin,male,700000,Sweden
+1977,The Nobel Prize in  Literature,Vicente Aleixandre,male,700000,Spain
+1977,The Nobel Peace Prize,Amnesty International,NULL,700000,NULL
+1977,The Nobel Prize in Physics,Philip W. Anderson,male,700000,USA
+1977,The Nobel Prize in Physiology or Medicine,Roger Guillemin,male,700000,France
+1978,The Nobel Prize in Chemistry,Peter Mitchell,male,725000,United Kingdom
+1978,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Herbert Simon,male,725000,USA
+1978,The Nobel Prize in  Literature,Isaac Bashevis Singer,male,725000,Russian Empire
+1978,The Nobel Peace Prize,Anwar al-Sadat,male,725000,Egypt
+1978,The Nobel Prize in Physics,Pyotr Kapitsa,male,725000,Russian Empire
+1978,The Nobel Prize in Physiology or Medicine,Werner Arber,male,725000,Switzerland
+1979,The Nobel Prize in Chemistry,Herbert C. Brown,male,800000,United Kingdom
+1979,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Theodore W. Schultz,male,800000,USA
+1979,The Nobel Prize in  Literature,Odysseus Elytis,male,800000,Crete
+1979,The Nobel Peace Prize,Mother Teresa ,female,800000,Ottoman Empire
+1979,The Nobel Prize in Physics,Sheldon Glashow,male,800000,USA
+1979,The Nobel Prize in Physiology or Medicine,Allan M. Cormack,male,800000,South Africa
+1980,The Nobel Prize in Chemistry,Paul Berg,male,880000,USA
+1980,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Lawrence R. Klein,male,880000,USA
+1980,The Nobel Prize in  Literature,Czeslaw Milosz,male,880000,Russian Empire
+1980,The Nobel Peace Prize,Adolfo Pérez Esquivel,male,880000,Argentina
+1980,The Nobel Prize in Physics,James Cronin,male,880000,USA
+1980,The Nobel Prize in Physiology or Medicine,Baruj Benacerraf,male,880000,Venezuela
+1981,The Nobel Prize in Chemistry,Kenichi Fukui,male,1000000,Japan
+1981,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,James Tobin,male,1000000,USA
+1981,The Nobel Prize in  Literature,Elias Canetti,male,1000000,Bulgaria
+1981,The Nobel Peace Prize,Office of the United Nations High Commissioner for Refugees,NULL,1000000,NULL
+1981,The Nobel Prize in Physics,Nicolaas Bloembergen,male,1000000,the Netherlands
+1981,The Nobel Prize in Physiology or Medicine,Roger W. Sperry,male,1000000,USA
+1982,The Nobel Prize in Chemistry,Aaron Klug,male,1150000,Lithuania
+1982,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,George J. Stigler,male,1150000,USA
+1982,The Nobel Prize in  Literature,Gabriel García Márquez,male,1150000,Colombia
+1982,The Nobel Peace Prize,Alva Myrdal,female,1150000,Sweden
+1982,The Nobel Prize in Physics,Kenneth G. Wilson,male,1150000,USA
+1982,The Nobel Prize in Physiology or Medicine,Sune K. Bergström,male,1150000,Sweden
+1983,The Nobel Prize in Chemistry,Henry Taube,male,1500000,Canada
+1983,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Gerard Debreu,male,1500000,France
+1983,The Nobel Prize in  Literature,William Golding,male,1500000,United Kingdom
+1983,The Nobel Peace Prize,Lech Walesa,male,1500000,Poland
+1983,The Nobel Prize in Physics,Subramanyan Chandrasekhar,male,1500000,India
+1983,The Nobel Prize in Physiology or Medicine,Barbara McClintock,female,1500000,USA
+1984,The Nobel Prize in Chemistry,Bruce Merrifield,male,1650000,USA
+1984,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Richard Stone,male,1650000,United Kingdom
+1984,The Nobel Prize in  Literature,Jaroslav Seifert,male,1650000,Austria-Hungary
+1984,The Nobel Peace Prize,Desmond Tutu,male,1650000,South Africa
+1984,The Nobel Prize in Physics,Carlo Rubbia,male,1650000,Italy
+1984,The Nobel Prize in Physiology or Medicine,Niels K. Jerne,male,1650000,United Kingdom
+1985,The Nobel Prize in Chemistry,Herbert A. Hauptman,male,1800000,USA
+1985,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Franco Modigliani,male,1800000,Italy
+1985,The Nobel Prize in  Literature,Claude Simon,male,1800000,Madagascar
+1985,The Nobel Peace Prize,International Physicians for the Prevention of Nuclear War,NULL,1800000,NULL
+1985,The Nobel Prize in Physics,Klaus von Klitzing,male,1800000,German-occupied Poland
+1985,The Nobel Prize in Physiology or Medicine,Michael S. Brown,male,1800000,USA
+1986,The Nobel Prize in Chemistry,Dudley R. Herschbach,male,2000000,USA
+1986,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,James M. Buchanan Jr.,male,2000000,USA
+1986,The Nobel Prize in  Literature,Wole Soyinka,male,2000000,Nigeria
+1986,The Nobel Peace Prize,Elie Wiesel,male,2000000,Romania
+1986,The Nobel Prize in Physics,Ernst Ruska,male,2000000,Germany
+1986,The Nobel Prize in Physiology or Medicine,Stanley Cohen,male,2000000,USA
+1987,The Nobel Prize in Chemistry,Donald J. Cram,male,2175000,USA
+1987,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert M. Solow,male,2175000,USA
+1987,The Nobel Prize in  Literature,Joseph Brodsky,male,2175000,USSR
+1987,The Nobel Peace Prize,Oscar Arias Sánchez,male,2175000,Costa Rica
+1987,The Nobel Prize in Physics,J. Georg Bednorz,male,2175000,West Germany
+1987,The Nobel Prize in Physiology or Medicine,Susumu Tonegawa,male,2175000,Japan
+1988,The Nobel Prize in Chemistry,Johann Deisenhofer,male,2500000,Germany
+1988,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Maurice Allais,male,2500000,France
+1988,The Nobel Prize in  Literature,Naguib Mahfouz,male,2500000,Egypt
+1988,The Nobel Peace Prize,United Nations Peacekeeping Forces,NULL,2500000,NULL
+1988,The Nobel Prize in Physics,Leon M. Lederman,male,2500000,USA
+1988,The Nobel Prize in Physiology or Medicine,Sir James W. Black,male,2500000,Scotland
+1989,The Nobel Prize in Chemistry,Sidney Altman,male,3000000,Canada
+1989,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Trygve Haavelmo,male,3000000,Norway
+1989,The Nobel Prize in  Literature,Camilo José Cela,male,3000000,Spain
+1989,The Nobel Peace Prize,The 14th Dalai Lama ,male,3000000,Tibet
+1989,The Nobel Prize in Physics,Norman F. Ramsey,male,3000000,USA
+1989,The Nobel Prize in Physiology or Medicine,J. Michael Bishop,male,3000000,USA
+1990,The Nobel Prize in Chemistry,Elias James Corey,male,4000000,USA
+1990,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Harry M. Markowitz,male,4000000,USA
+1990,The Nobel Prize in  Literature,Octavio Paz,male,4000000,Mexico
+1990,The Nobel Peace Prize,Mikhail Gorbachev,male,4000000,USSR
+1990,The Nobel Prize in Physics,Jerome I. Friedman,male,4000000,USA
+1990,The Nobel Prize in Physiology or Medicine,Joseph E. Murray,male,4000000,USA
+1991,The Nobel Prize in Chemistry,Richard R. Ernst,male,6000000,Switzerland
+1991,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Ronald H. Coase,male,6000000,United Kingdom
+1991,The Nobel Prize in  Literature,Nadine Gordimer,female,6000000,South Africa
+1991,The Nobel Peace Prize,Aung San Suu Kyi ,female,6000000,Burma
+1991,The Nobel Prize in Physics,Pierre-Gilles de Gennes,male,6000000,France
+1991,The Nobel Prize in Physiology or Medicine,Erwin Neher,male,6000000,Germany
+1992,The Nobel Prize in Chemistry,Rudolph A. Marcus,male,6500000,Canada
+1992,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Gary Becker,male,6500000,USA
+1992,The Nobel Prize in  Literature,Derek Walcott,male,6500000,Saint Lucia
+1992,The Nobel Peace Prize,Rigoberta Menchú Tum,female,6500000,Guatemala
+1992,The Nobel Prize in Physics,Georges Charpak,male,6500000,Poland
+1992,The Nobel Prize in Physiology or Medicine,Edmond H. Fischer,male,6500000,China
+1993,The Nobel Prize in Chemistry,Kary B. Mullis,male,6700000,USA
+1993,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert W. Fogel,male,6700000,USA
+1993,The Nobel Prize in  Literature,Toni Morrison,female,6700000,USA
+1993,The Nobel Peace Prize,Nelson Mandela,male,6700000,South Africa
+1993,The Nobel Prize in Physics,Russell A. Hulse,male,6700000,USA
+1993,The Nobel Prize in Physiology or Medicine,Richard J. Roberts,male,6700000,United Kingdom
+1994,The Nobel Prize in Chemistry,George A. Olah,male,7000000,Hungary
+1994,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,John C. Harsanyi,male,7000000,Hungary
+1994,The Nobel Prize in  Literature,Kenzaburo Oe,male,7000000,Japan
+1994,The Nobel Peace Prize,Yasser Arafat,male,7000000,Egypt
+1994,The Nobel Prize in Physics,Bertram N. Brockhouse,male,7000000,Canada
+1994,The Nobel Prize in Physiology or Medicine,Alfred G. Gilman,male,7000000,USA
+1995,The Nobel Prize in Chemistry,Paul J. Crutzen,male,7200000,the Netherlands
+1995,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert E. Lucas Jr.,male,7200000,USA
+1995,The Nobel Prize in  Literature,Seamus Heaney,male,7200000,Northern Ireland
+1995,The Nobel Peace Prize,Joseph Rotblat,male,7200000,Russian Empire
+1995,The Nobel Prize in Physics,Martin L. Perl,male,7200000,USA
+1995,The Nobel Prize in Physiology or Medicine,Edward B. Lewis,male,7200000,USA
+1996,The Nobel Prize in Chemistry,Robert F. Curl Jr.,male,7400000,USA
+1996,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,James A. Mirrlees,male,7400000,Scotland
+1996,The Nobel Prize in  Literature,Wislawa Szymborska,female,7400000,Poland
+1996,The Nobel Peace Prize,Carlos Filipe Ximenes Belo,male,7400000,East Timor
+1996,The Nobel Prize in Physics,David M. Lee,male,7400000,USA
+1996,The Nobel Prize in Physiology or Medicine,Peter C. Doherty,male,7400000,Australia
+1997,The Nobel Prize in Chemistry,Paul D. Boyer,male,7500000,USA
+1997,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert C. Merton,male,7500000,USA
+1997,The Nobel Prize in  Literature,Dario Fo,male,7500000,Italy
+1997,The Nobel Peace Prize,International Campaign to Ban Landmines,NULL,7500000,NULL
+1997,The Nobel Prize in Physics,Steven Chu,male,7500000,USA
+1997,The Nobel Prize in Physiology or Medicine,Stanley B. Prusiner,male,7500000,USA
+1998,The Nobel Prize in Chemistry,Walter Kohn,male,7600000,Austria
+1998,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Amartya Sen,male,7600000,India
+1998,The Nobel Prize in  Literature,José Saramago,male,7600000,Portugal
+1998,The Nobel Peace Prize,John Hume,male,7600000,Northern Ireland
+1998,The Nobel Prize in Physics,Robert B. Laughlin,male,7600000,USA
+1998,The Nobel Prize in Physiology or Medicine,Robert F. Furchgott,male,7600000,USA
+1999,The Nobel Prize in Chemistry,Ahmed Zewail,male,7900000,Egypt
+1999,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert Mundell,male,7900000,Canada
+1999,The Nobel Prize in  Literature,Günter Grass,male,7900000,Free City of Danzig
+1999,The Nobel Peace Prize,Médecins Sans Frontières,NULL,7900000,NULL
+1999,The Nobel Prize in Physics,Gerardus 't Hooft,male,7900000,the Netherlands
+1999,The Nobel Prize in Physiology or Medicine,Günter Blobel,male,7900000,Germany
+2000,The Nobel Prize in Chemistry,Alan Heeger,male,9000000,USA
+2000,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,James J. Heckman,male,9000000,USA
+2000,The Nobel Prize in  Literature,Gao Xingjian,male,9000000,China
+2000,The Nobel Peace Prize,Kim Dae-jung,male,9000000,Korea
+2000,The Nobel Prize in Physics,Zhores Alferov,male,9000000,USSR
+2000,The Nobel Prize in Physiology or Medicine,Arvid Carlsson,male,9000000,Sweden
+2001,The Nobel Prize in Chemistry,William Knowles,male,10000000,USA
+2001,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,George A. Akerlof,male,10000000,USA
+2001,The Nobel Prize in  Literature,V. S. Naipaul,male,10000000,Trinidad and Tobago
+2001,The Nobel Peace Prize,United Nations,NULL,10000000,NULL
+2001,The Nobel Prize in Physics,Eric Cornell,male,10000000,USA
+2001,The Nobel Prize in Physiology or Medicine,Sir Paul Nurse,male,10000000,United Kingdom
+2002,The Nobel Prize in Chemistry,John B. Fenn,male,10000000,USA
+2002,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Daniel Kahneman,male,10000000,British Mandate of Palestine
+2002,The Nobel Prize in  Literature,Imre Kertész,male,10000000,Hungary
+2002,The Nobel Peace Prize,Jimmy Carter,male,10000000,USA
+2002,The Nobel Prize in Physics,Raymond Davis Jr.,male,10000000,USA
+2002,The Nobel Prize in Physiology or Medicine,Sydney Brenner,male,10000000,South Africa
+2003,The Nobel Prize in Chemistry,Peter Agre,male,10000000,USA
+2003,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert F. Engle III,male,10000000,USA
+2003,The Nobel Prize in  Literature,J. M. Coetzee,male,10000000,South Africa
+2003,The Nobel Peace Prize,Shirin Ebadi,female,10000000,Iran
+2003,The Nobel Prize in Physics,Alexei Abrikosov,male,10000000,USSR
+2003,The Nobel Prize in Physiology or Medicine,Paul C. Lauterbur,male,10000000,USA
+2004,The Nobel Prize in Chemistry,Aaron Ciechanover,male,10000000,British Protectorate of Palestine
+2004,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Finn E. Kydland,male,10000000,Norway
+2004,The Nobel Prize in  Literature,Elfriede Jelinek,female,10000000,Austria
+2004,The Nobel Peace Prize,Wangari Maathai,female,10000000,Kenya
+2004,The Nobel Prize in Physics,David J. Gross,male,10000000,USA
+2004,The Nobel Prize in Physiology or Medicine,Richard Axel,male,10000000,USA
+2005,The Nobel Prize in Chemistry,Yves Chauvin,male,10000000,Belgium
+2005,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Robert J. Aumann,male,10000000,Germany
+2005,The Nobel Prize in  Literature,Harold Pinter,male,10000000,United Kingdom
+2005,The Nobel Peace Prize,International Atomic Energy Agency,NULL,10000000,NULL
+2005,The Nobel Prize in Physics,Roy J. Glauber,male,10000000,USA
+2005,The Nobel Prize in Physiology or Medicine,Barry J. Marshall,male,10000000,Australia
+2006,The Nobel Prize in Chemistry,Roger D. Kornberg,male,10000000,USA
+2006,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Edmund S. Phelps,male,10000000,USA
+2006,The Nobel Prize in  Literature,Orhan Pamuk,male,10000000,Turkey
+2006,The Nobel Peace Prize,Muhammad Yunus,male,10000000,British India
+2006,The Nobel Prize in Physics,John C. Mather,male,10000000,USA
+2006,The Nobel Prize in Physiology or Medicine,Andrew Z. Fire,male,10000000,USA
+2007,The Nobel Prize in Chemistry,Gerhard Ertl,male,10000000,Germany
+2007,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Leonid Hurwicz,male,10000000,Russia
+2007,The Nobel Prize in  Literature,Doris Lessing,female,10000000,Persia
+2007,The Nobel Peace Prize,Intergovernmental Panel on Climate Change,NULL,10000000,NULL
+2007,The Nobel Prize in Physics,Albert Fert,male,10000000,France
+2007,The Nobel Prize in Physiology or Medicine,Mario R. Capecchi,male,10000000,Italy
+2008,The Nobel Prize in Chemistry,Osamu Shimomura,male,10000000,Japan
+2008,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Paul Krugman,male,10000000,USA
+2008,The Nobel Prize in  Literature,Jean-Marie Gustave Le Clézio,male,10000000,France
+2008,The Nobel Peace Prize,Martti Ahtisaari,male,10000000,Finland
+2008,The Nobel Prize in Physics,Yoichiro Nambu,male,10000000,Japan
+2008,The Nobel Prize in Physiology or Medicine,Harald zur Hausen,male,10000000,Germany
+2009,The Nobel Prize in Chemistry,Venkatraman Ramakrishnan,male,10000000,India
+2009,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Elinor Ostrom,female,10000000,USA
+2009,The Nobel Prize in  Literature,Herta Müller,female,10000000,Romania
+2009,The Nobel Peace Prize,Barack H. Obama,male,10000000,USA
+2009,The Nobel Prize in Physics,Charles K. Kao,male,10000000,China
+2009,The Nobel Prize in Physiology or Medicine,Elizabeth H. Blackburn,female,10000000,Australia
+2010,The Nobel Prize in Chemistry,Richard F. Heck,male,10000000,USA
+2010,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Peter A. Diamond,male,10000000,USA
+2010,The Nobel Prize in  Literature,Mario Vargas Llosa,male,10000000,Peru
+2010,The Nobel Peace Prize,Liu Xiaobo,male,10000000,China
+2010,The Nobel Prize in Physics,Andre Geim,male,10000000,Russia
+2010,The Nobel Prize in Physiology or Medicine,Robert G. Edwards,male,10000000,United Kingdom
+2011,The Nobel Prize in Chemistry,Dan Shechtman,male,10000000,British Mandate of Palestine
+2011,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Thomas J. Sargent,male,10000000,USA
+2011,The Nobel Prize in  Literature,Tomas Tranströmer,male,10000000,Sweden
+2011,The Nobel Peace Prize,Ellen Johnson Sirleaf,female,10000000,Liberia
+2011,The Nobel Prize in Physics,Saul Perlmutter,male,10000000,USA
+2011,The Nobel Prize in Physiology or Medicine,Bruce A. Beutler,male,10000000,USA
+2012,The Nobel Prize in Chemistry,Robert J. Lefkowitz,male,8000000,USA
+2012,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Alvin E. Roth,male,8000000,USA
+2012,The Nobel Prize in  Literature,Mo Yan,male,8000000,China
+2012,The Nobel Peace Prize,European Union (EU),NULL,8000000,NULL
+2012,The Nobel Prize in Physics,Serge Haroche,male,8000000,Morocco
+2012,The Nobel Prize in Physiology or Medicine,Sir John B. Gurdon,male,8000000,United Kingdom
+2013,The Nobel Prize in Chemistry,Martin Karplus,male,8000000,Austria
+2013,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Eugene F. Fama,male,8000000,USA
+2013,The Nobel Prize in  Literature,Alice Munro,female,8000000,Canada
+2013,The Nobel Peace Prize,Organisation for the Prohibition of Chemical Weapons,NULL,8000000,NULL
+2013,The Nobel Prize in Physics,François Englert,male,8000000,Belgium
+2013,The Nobel Prize in Physiology or Medicine,James E. Rothman,male,8000000,USA
+2014,The Nobel Prize in Chemistry,Eric Betzig,male,8000000,USA
+2014,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Jean Tirole,male,8000000,France
+2014,The Nobel Prize in  Literature,Patrick Modiano,male,8000000,France
+2014,The Nobel Peace Prize,Kailash Satyarthi,male,8000000,India
+2014,The Nobel Prize in Physics,Isamu Akasaki,male,8000000,Japan
+2014,The Nobel Prize in Physiology or Medicine,John O'Keefe,male,8000000,USA
+2015,The Nobel Prize in Chemistry,Tomas Lindahl,male,8000000,Sweden
+2015,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Angus Deaton,male,8000000,Scotland
+2015,The Nobel Prize in  Literature,Svetlana Alexievich,female,8000000,Ukraine
+2015,The Nobel Peace Prize,National Dialogue Quartet ,NULL,8000000,NULL
+2015,The Nobel Prize in Physics,Takaaki Kajita,male,8000000,Japan
+2015,The Nobel Prize in Physiology or Medicine,William C. Campbell,male,8000000,Ireland
+2016,The Nobel Prize in Chemistry,Jean-Pierre Sauvage,male,8000000,France
+2016,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Oliver Hart,male,8000000,United Kingdom
+2016,The Nobel Prize in  Literature,Bob Dylan,male,8000000,USA
+2016,The Nobel Peace Prize,Juan Manuel Santos,male,8000000,Colombia
+2016,The Nobel Prize in Physics,David J. Thouless,male,8000000,United Kingdom
+2016,The Nobel Prize in Physiology or Medicine,Yoshinori Ohsumi,male,8000000,Japan
+2017,The Nobel Prize in Chemistry,Jacques Dubochet,male,9000000,Switzerland
+2017,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Richard H. Thaler,male,9000000,USA
+2017,The Nobel Prize in  Literature,Kazuo Ishiguro,male,9000000,Japan
+2017,The Nobel Peace Prize,International Campaign to Abolish Nuclear Weapons (ICAN),NULL,9000000,NULL
+2017,The Nobel Prize in Physics,Rainer Weiss,male,9000000,Germany
+2017,The Nobel Prize in Physiology or Medicine,Jeffrey C. Hall,male,9000000,USA
+2018,The Nobel Prize in Chemistry,Frances H. Arnold,female,9000000,USA
+2018,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,William D. Nordhaus,male,9000000,USA
+2018,The Nobel Prize in  Literature,Olga Tokarczuk,female,9000000,Poland
+2018,The Nobel Peace Prize,Denis Mukwege,male,9000000,Belgian Congo
+2018,The Nobel Prize in Physics,Arthur Ashkin,male,9000000,USA
+2018,The Nobel Prize in Physiology or Medicine,James P. Allison,male,9000000,USA
+2019,The Nobel Prize in Chemistry,John B. Goodenough,male,9000000,Germany
+2019,The Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel,Abhijit Banerjee,male,9000000,India
+2019,The Nobel Prize in  Literature,Peter Handke,male,9000000,Austria
+2019,The Nobel Peace Prize,Abiy Ahmed Ali,male,9000000,Ethiopia
+2019,The Nobel Prize in Physics,James Peebles,male,9000000,Canada
+2019,The Nobel Prize in Physiology or Medicine,William G. Kaelin Jr,male,9000000,USA
